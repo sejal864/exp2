@@ -1,0 +1,24 @@
+Elastic beanstalk
+2. Create environment
+3. Web server environment
+4. Application name
+5. Platform - choose platform - PHP
+6. Create environment
+7.new tab
+8.create bucket
+9. Bucket name
+10. Bucket enable
+11.default encryption - enable
+12. Search your bucket 
+13. Click on it
+14. Search for a php project on github
+15 . Upload your file 
+16. Copy key 
+17. Code pipeline 
+18. Create pipeline
+19. Source provider - amazon s3
+20 . Build provider - skip
+21. Deploy provider - Aws beanstalk
+22. Application name
+23. Create pipeline
+24.Done
